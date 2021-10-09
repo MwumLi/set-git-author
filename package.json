@@ -1,6 +1,6 @@
 {
   "name": "set-git-author",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "set a suitable git author by some rules, such as remote repo",
   "main": "index.mjs",
   "bin": "./index.mjs",
