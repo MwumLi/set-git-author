@@ -4,121 +4,121 @@
 
 "@nodelib/fs.scandir@2.1.5":
   version "2.1.5"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/@nodelib/fs.scandir/download/@nodelib/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
-  integrity sha1-dhnC6yGyVIP20WdUi0z9WnSIw9U=
+  resolved "https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
+  integrity sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==
   dependencies:
     "@nodelib/fs.stat" "2.0.5"
     run-parallel "^1.1.9"
 
 "@nodelib/fs.stat@2.0.5", "@nodelib/fs.stat@^2.0.2":
   version "2.0.5"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/@nodelib/fs.stat/download/@nodelib/fs.stat-2.0.5.tgz#5bd262af94e9d25bd1e71b05deed44876a222e8b"
-  integrity sha1-W9Jir5Tp0lvR5xsF3u1Eh2oiLos=
+  resolved "https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz#5bd262af94e9d25bd1e71b05deed44876a222e8b"
+  integrity sha512-RkhPPp2zrqDAQA/2jNhnztcPAlv64XdhIp7a7454A5ovI7Bukxgt7MX7udwAu3zg1DcpPU0rz3VV1SeaqvY4+A==
 
 "@nodelib/fs.walk@^1.2.3":
   version "1.2.8"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/@nodelib/fs.walk/download/@nodelib/fs.walk-1.2.8.tgz#e95737e8bb6746ddedf69c556953494f196fe69a"
-  integrity sha1-6Vc36LtnRt3t9pxVaVNJTxlv5po=
+  resolved "https://registry.npmjs.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz#e95737e8bb6746ddedf69c556953494f196fe69a"
+  integrity sha512-oGB+UxlgWcgQkgwo8GcEGwemoTFt3FIO9ababBmaGwXIoBKZ+GTy0pP185beGg7Llih/NSHSV2XAs1lnznocSg==
   dependencies:
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
 "@types/fs-extra@^9.0.12":
   version "9.0.13"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/@types/fs-extra/download/@types/fs-extra-9.0.13.tgz#7594fbae04fe7f1918ce8b3d213f74ff44ac1f45"
-  integrity sha1-dZT7rgT+fxkYzos9IT90/0SsH0U=
+  resolved "https://registry.npmjs.org/@types/fs-extra/-/fs-extra-9.0.13.tgz#7594fbae04fe7f1918ce8b3d213f74ff44ac1f45"
+  integrity sha512-nEnwB++1u5lVDM2UI4c1+5R+FYaKfaAzS4OococimjVm3nQw3TuzH5UNsocrcTBbhnerblyHj4A49qXbIiZdpA==
   dependencies:
     "@types/node" "*"
 
 "@types/minimist@^1.2.2":
   version "1.2.2"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/@types/minimist/download/@types/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
-  integrity sha1-7nceK6Sz3Fs3KTXVSf2WF780W4w=
+  resolved "https://registry.npmjs.org/@types/minimist/-/minimist-1.2.2.tgz#ee771e2ba4b3dc5b372935d549fd9617bf345b8c"
+  integrity sha512-jhuKLIRrhvCPLqwPcx6INqmKeiA5EWrsCOPhrlFSrbrmU4ZMPjj5Ul/oLCMDO98XRUIwVm78xICz4EPCektzeQ==
 
 "@types/node-fetch@^2.5.12":
   version "2.5.12"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/@types/node-fetch/download/@types/node-fetch-2.5.12.tgz#8a6f779b1d4e60b7a57fb6fd48d84fb545b9cc66"
-  integrity sha1-im93mx1OYLelf7b9SNhPtUW5zGY=
+  resolved "https://registry.npmjs.org/@types/node-fetch/-/node-fetch-2.5.12.tgz#8a6f779b1d4e60b7a57fb6fd48d84fb545b9cc66"
+  integrity sha512-MKgC4dlq4kKNa/mYrwpKfzQMB5X3ee5U6fSprkKpToBqBmX4nFZL9cW5jl6sWn+xpRJ7ypWh2yyqqr8UUCstSw==
   dependencies:
     "@types/node" "*"
     form-data "^3.0.0"
 
 "@types/node@*", "@types/node@^16.6":
-  version "16.10.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/@types/node/download/@types/node-16.10.1.tgz#f3647623199ca920960006b3dccf633ea905f243"
-  integrity sha1-82R2IxmcqSCWAAaz3M9jPqkF8kM=
+  version "16.10.3"
+  resolved "https://registry.npmjs.org/@types/node/-/node-16.10.3.tgz#7a8f2838603ea314d1d22bb3171d899e15c57bd5"
+  integrity sha512-ho3Ruq+fFnBrZhUYI46n/bV2GjwzSkwuT4dTf0GkuNFmnb8nq4ny2z9JEVemFi6bdEJanHLlYfy9c6FN9B9McQ==
 
 ansi-styles@^4.1.0:
   version "4.3.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/ansi-styles/download/ansi-styles-4.3.0.tgz#edd803628ae71c04c85ae7a0906edad34b648937"
-  integrity sha1-7dgDYornHATIWuegkG7a00tkiTc=
+  resolved "https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz#edd803628ae71c04c85ae7a0906edad34b648937"
+  integrity sha512-zbB9rCJAT1rbjiVDb2hqKFHNYLxgtk8NURxZ3IZwD3F6NtxbXZQCnnSi1Lkx+IDohdPlFp222wVALIheZJQSEg==
   dependencies:
     color-convert "^2.0.1"
 
 array-union@^3.0.1:
   version "3.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/array-union/download/array-union-3.0.1.tgz#da52630d327f8b88cfbfb57728e2af5cd9b6b975"
-  integrity sha1-2lJjDTJ/i4jPv7V3KOKvXNm2uXU=
+  resolved "https://registry.npmjs.org/array-union/-/array-union-3.0.1.tgz#da52630d327f8b88cfbfb57728e2af5cd9b6b975"
+  integrity sha512-1OvF9IbWwaeiM9VhzYXVQacMibxpXOMYVNIvMtKRyX9SImBXpKcFr8XvFDeEslCyuH/t6KRt7HEO94AlP8Iatw==
 
 asynckit@^0.4.0:
   version "0.4.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/asynckit/download/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
+  resolved "https://registry.npmjs.org/asynckit/-/asynckit-0.4.0.tgz#c79ed97f7f34cb8f2ba1bc9790bcc366474b4b79"
   integrity sha1-x57Zf380y48robyXkLzDZkdLS3k=
 
 braces@^3.0.1:
   version "3.0.2"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/braces/download/braces-3.0.2.tgz#3454e1a462ee8d599e236df336cd9ea4f8afe107"
-  integrity sha1-NFThpGLujVmeI23zNs2epPiv4Qc=
+  resolved "https://registry.npmjs.org/braces/-/braces-3.0.2.tgz#3454e1a462ee8d599e236df336cd9ea4f8afe107"
+  integrity sha512-b8um+L1RzM3WDSzvhm6gIz1yfTbBt6YTlcEKAvsmqCZZFw46z626lVj9j1yEPW33H5H+lBQpZMP1k8l+78Ha0A==
   dependencies:
     fill-range "^7.0.1"
 
 chalk@^4.1.2:
   version "4.1.2"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/chalk/download/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
-  integrity sha1-qsTit3NKdAhnrrFr8CqtVWoeegE=
+  resolved "https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz#aac4e2b7734a740867aeb16bf02aad556a1e7a01"
+  integrity sha512-oKnbhFyRIXpUuez8iBMmyEa4nbj4IOQyuhc/wy9kY7/WVPcwIO9VA668Pu8RkO7+0G76SLROeyw9CpQ061i4mA==
   dependencies:
     ansi-styles "^4.1.0"
     supports-color "^7.1.0"
 
 color-convert@^2.0.1:
   version "2.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/color-convert/download/color-convert-2.0.1.tgz#72d3a68d598c9bdb3af2ad1e84f21d896abd4de3"
-  integrity sha1-ctOmjVmMm9s68q0ehPIdiWq9TeM=
+  resolved "https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz#72d3a68d598c9bdb3af2ad1e84f21d896abd4de3"
+  integrity sha512-RRECPsj7iu/xb5oKYcsFHSppFNnsj/52OVTRKb4zP5onXwVF3zVmmToNcOfGC+CRDpfK/U584fMg38ZHCaElKQ==
   dependencies:
     color-name "~1.1.4"
 
 color-name@~1.1.4:
   version "1.1.4"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/color-name/download/color-name-1.1.4.tgz#c2a09a87acbde69543de6f63fa3995c826c536a2"
-  integrity sha1-wqCah6y95pVD3m9j+jmVyCbFNqI=
+  resolved "https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz#c2a09a87acbde69543de6f63fa3995c826c536a2"
+  integrity sha512-dOy+3AuW3a2wNbZHIuMZpTcgjGuLU/uBL/ubcZF9OXbDo8ff4O8yVp5Bf0efS8uEoYo5q4Fx7dY9OgQGXgAsQA==
 
 combined-stream@^1.0.8:
   version "1.0.8"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/combined-stream/download/combined-stream-1.0.8.tgz#c3d45a8b34fd730631a110a8a2520682b31d5a7f"
-  integrity sha1-w9RaizT9cwYxoRCoolIGgrMdWn8=
+  resolved "https://registry.npmjs.org/combined-stream/-/combined-stream-1.0.8.tgz#c3d45a8b34fd730631a110a8a2520682b31d5a7f"
+  integrity sha512-FQN4MRfuJeHf7cBbBMJFXhKSDq+2kAArBlmRBvcvFE5BB1HZKXtSFASDhdlz9zOYwxh8lDdnvmMOe/+5cdoEdg==
   dependencies:
     delayed-stream "~1.0.0"
 
 delayed-stream@~1.0.0:
   version "1.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/delayed-stream/download/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
+  resolved "https://registry.npmjs.org/delayed-stream/-/delayed-stream-1.0.0.tgz#df3ae199acadfb7d440aaae0b29e2272b24ec619"
   integrity sha1-3zrhmayt+31ECqrgsp4icrJOxhk=
 
 dir-glob@^3.0.1:
   version "3.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/dir-glob/download/dir-glob-3.0.1.tgz#56dbf73d992a4a93ba1584f4534063fd2e41717f"
-  integrity sha1-Vtv3PZkqSpO6FYT0U0Bj/S5BcX8=
+  resolved "https://registry.npmjs.org/dir-glob/-/dir-glob-3.0.1.tgz#56dbf73d992a4a93ba1584f4534063fd2e41717f"
+  integrity sha512-WkrWp9GR4KXfKGYzOLmTuGVi1UWFfws377n9cc55/tb6DuqyF6pcQ5AbiHEshaDpY9v6oaSr2XCDidGmMwdzIA==
   dependencies:
     path-type "^4.0.0"
 
 duplexer@~0.1.1:
   version "0.1.2"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/duplexer/download/duplexer-0.1.2.tgz#3abe43aef3835f8ae077d136ddce0f276b0400e6"
-  integrity sha1-Or5DrvODX4rgd9E23c4PJ2sEAOY=
+  resolved "https://registry.npmjs.org/duplexer/-/duplexer-0.1.2.tgz#3abe43aef3835f8ae077d136ddce0f276b0400e6"
+  integrity sha512-jtD6YG370ZCIi/9GTaJKQxWTZD045+4R4hTk/x1UyoqadyJ9x9CgSi1RlVDQF8U2sxLLSnFkCaMihqljHIWgMg==
 
 event-stream@=3.3.4:
   version "3.3.4"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/event-stream/download/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
+  resolved "https://registry.npmjs.org/event-stream/-/event-stream-3.3.4.tgz#4ab4c9a0f5a54db9338b4c34d86bfce8f4b35571"
   integrity sha1-SrTJoPWlTbkzi0w02Gv86PSzVXE=
   dependencies:
     duplexer "~0.1.1"
@@ -131,8 +131,8 @@ event-stream@=3.3.4:
 
 fast-glob@^3.2.7:
   version "3.2.7"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/fast-glob/download/fast-glob-3.2.7.tgz#fd6cb7a2d7e9aa7a7846111e85a196d6b2f766a1"
-  integrity sha1-/Wy3otfpqnp4RhEehaGW1rL3ZqE=
+  resolved "https://registry.npmjs.org/fast-glob/-/fast-glob-3.2.7.tgz#fd6cb7a2d7e9aa7a7846111e85a196d6b2f766a1"
+  integrity sha512-rYGMRwip6lUMvYD3BTScMwT1HtAs2d71SMv66Vrxs0IekGZEjhM0pcMfjQPnknBt2zeCwQMEupiN02ZP4DiT1Q==
   dependencies:
     "@nodelib/fs.stat" "^2.0.2"
     "@nodelib/fs.walk" "^1.2.3"
@@ -142,22 +142,22 @@ fast-glob@^3.2.7:
 
 fastq@^1.6.0:
   version "1.13.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/fastq/download/fastq-1.13.0.tgz#616760f88a7526bdfc596b7cab8c18938c36b98c"
-  integrity sha1-YWdg+Ip1Jr38WWt8q4wYk4w2uYw=
+  resolved "https://registry.npmjs.org/fastq/-/fastq-1.13.0.tgz#616760f88a7526bdfc596b7cab8c18938c36b98c"
+  integrity sha512-YpkpUnK8od0o1hmeSc7UUs/eB/vIPWJYjKck2QKIzAf71Vm1AAQ3EbuZB3g2JIy+pg+ERD0vqI79KyZiB2e2Nw==
   dependencies:
     reusify "^1.0.4"
 
 fill-range@^7.0.1:
   version "7.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/fill-range/download/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"
-  integrity sha1-GRmmp8df44ssfHflGYU12prN2kA=
+  resolved "https://registry.npmjs.org/fill-range/-/fill-range-7.0.1.tgz#1919a6a7c75fe38b2c7c77e5198535da9acdda40"
+  integrity sha512-qOo9F+dMUmC2Lcb4BbVvnKJxTPjCm+RRpe4gDuGrzkL7mEVl/djYSu2OdQ2Pa302N4oqkSg9ir6jaLWJ2USVpQ==
   dependencies:
     to-regex-range "^5.0.1"
 
 form-data@^3.0.0:
   version "3.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/form-data/download/form-data-3.0.1.tgz#ebd53791b78356a99af9a300d4282c4d5eb9755f"
-  integrity sha1-69U3kbeDVqma+aMA1CgsTV65dV8=
+  resolved "https://registry.npmjs.org/form-data/-/form-data-3.0.1.tgz#ebd53791b78356a99af9a300d4282c4d5eb9755f"
+  integrity sha512-RHkBKtLWUVwd7SqRIvCZMEvAMoGUp0XU+seQiZejj0COz3RI3hWP4sCv3gZWWLjJTd7rGwcsF5eKZGii0r/hbg==
   dependencies:
     asynckit "^0.4.0"
     combined-stream "^1.0.8"
@@ -165,13 +165,13 @@ form-data@^3.0.0:
 
 from@~0:
   version "0.1.7"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/from/download/from-0.1.7.tgz#83c60afc58b9c56997007ed1a768b3ab303a44fe"
+  resolved "https://registry.npmjs.org/from/-/from-0.1.7.tgz#83c60afc58b9c56997007ed1a768b3ab303a44fe"
   integrity sha1-g8YK/Fi5xWmXAH7Rp2izqzA6RP4=
 
 fs-extra@^10.0.0:
   version "10.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/fs-extra/download/fs-extra-10.0.0.tgz#9ff61b655dde53fb34a82df84bb214ce802e17c1"
-  integrity sha1-n/YbZV3eU/s0qC34S7IUzoAuF8E=
+  resolved "https://registry.npmjs.org/fs-extra/-/fs-extra-10.0.0.tgz#9ff61b655dde53fb34a82df84bb214ce802e17c1"
+  integrity sha512-C5owb14u9eJwizKGdchcDUQeFtlSHHthBk8pbX9Vc1PFZrLombudjDnNns88aYslCyF6IY5SUw3Roz6xShcEIQ==
   dependencies:
     graceful-fs "^4.2.0"
     jsonfile "^6.0.1"
@@ -179,15 +179,15 @@ fs-extra@^10.0.0:
 
 glob-parent@^5.1.2:
   version "5.1.2"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/glob-parent/download/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
-  integrity sha1-hpgyxYA0/mikCTwX3BXoNA2EAcQ=
+  resolved "https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha512-AOIgSQCepiJYwP3ARnGx+5VnTu2HBYdzbGP45eLw1vr3zB3vZLeyed1sC9hnbcOc9/SrMyM5RPQrkGz4aS9Zow==
   dependencies:
     is-glob "^4.0.1"
 
 globby@^12.0.1:
   version "12.0.2"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/globby/download/globby-12.0.2.tgz#53788b2adf235602ed4cabfea5c70a1139e1ab11"
-  integrity sha1-U3iLKt8jVgLtTKv+pccKETnhqxE=
+  resolved "https://registry.npmjs.org/globby/-/globby-12.0.2.tgz#53788b2adf235602ed4cabfea5c70a1139e1ab11"
+  integrity sha512-lAsmb/5Lww4r7MM9nCCliDZVIKbZTavrsunAsHLr9oHthrZP1qi7/gAnHOsUs9bLvEt2vKVJhHmxuL7QbDuPdQ==
   dependencies:
     array-union "^3.0.1"
     dir-glob "^3.0.1"
@@ -198,45 +198,45 @@ globby@^12.0.1:
 
 graceful-fs@^4.1.6, graceful-fs@^4.2.0:
   version "4.2.8"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/graceful-fs/download/graceful-fs-4.2.8.tgz#e412b8d33f5e006593cbd3cee6df9f2cebbe802a"
-  integrity sha1-5BK40z9eAGWTy9PO5t+fLOu+gCo=
+  resolved "https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.8.tgz#e412b8d33f5e006593cbd3cee6df9f2cebbe802a"
+  integrity sha512-qkIilPUYcNhJpd33n0GBXTB1MMPp14TxEsEs0pTrsSVucApsYzW5V+Q8Qxhik6KU3evy+qkAAowTByymK0avdg==
 
 has-flag@^4.0.0:
   version "4.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/has-flag/download/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
-  integrity sha1-lEdx/ZyByBJlxNaUGGDaBrtZR5s=
+  resolved "https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz#944771fd9c81c81265c4d6941860da06bb59479b"
+  integrity sha512-EykJT/Q1KjTWctppgIAgfSO0tKVuZUjhgMr17kqTumMl6Afv3EISleU7qZUzoXDFTAHTDC4NOoG/ZxU3EvlMPQ==
 
 ignore@^5.1.8:
   version "5.1.8"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/ignore/download/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
-  integrity sha1-8VCotQo0KJsz4i9YiavU2AFvDlc=
+  resolved "https://registry.npmjs.org/ignore/-/ignore-5.1.8.tgz#f150a8b50a34289b33e22f5889abd4d8016f0e57"
+  integrity sha512-BMpfD7PpiETpBl/A6S498BaIJ6Y/ABT93ETbby2fP00v4EbvPBXWEoaR1UBPKs3iR53pJY7EtZk5KACI57i1Uw==
 
 is-extglob@^2.1.1:
   version "2.1.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/is-extglob/download/is-extglob-2.1.1.tgz#a88c02535791f02ed37c76a1b9ea9773c833f8c2"
+  resolved "https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz#a88c02535791f02ed37c76a1b9ea9773c833f8c2"
   integrity sha1-qIwCU1eR8C7TfHahueqXc8gz+MI=
 
 is-glob@^4.0.1:
-  version "4.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/is-glob/download/is-glob-4.0.1.tgz#7567dbe9f2f5e2467bc77ab83c4a29482407a5dc"
-  integrity sha1-dWfb6fL14kZ7x3q4PEopSCQHpdw=
+  version "4.0.3"
+  resolved "https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz#64f61e42cbbb2eec2071a9dac0b28ba1e65d5084"
+  integrity sha512-xelSayHH36ZgE7ZWhli7pW34hNbNl8Ojv5KVmkJD4hBdD3th8Tfk9vYasLM+mXWOZhFkgZfxhLSnrwRr4elSSg==
   dependencies:
     is-extglob "^2.1.1"
 
 is-number@^7.0.0:
   version "7.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/is-number/download/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
-  integrity sha1-dTU0W4lnNNX4DE0GxQlVUnoU8Ss=
+  resolved "https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
+  integrity sha512-41Cifkg6e8TylSpdtTpeLVMqvSBEVzTttHvERD741+pnZ8ANv0004MRL43QKPDlK9cGvNp6NZWZUBlbGXYxxng==
 
 isexe@^2.0.0:
   version "2.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/isexe/download/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
+  resolved "https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha1-6PvzdNxVb/iUehDcsFctYz8s+hA=
 
 jsonfile@^6.0.1:
   version "6.1.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/jsonfile/download/jsonfile-6.1.0.tgz#bc55b2634793c679ec6403094eb13698a6ec0aae"
-  integrity sha1-vFWyY0eTxnnsZAMJTrE2mKbsCq4=
+  resolved "https://registry.npmjs.org/jsonfile/-/jsonfile-6.1.0.tgz#bc55b2634793c679ec6403094eb13698a6ec0aae"
+  integrity sha512-5dgndWOriYSm5cnYaJNhalLNDKOqFwyDB/rr1E9ZsGciGvKPs8R2xYGCacuf3z6K1YKDz182fd+fY3cn3pMqXQ==
   dependencies:
     universalify "^2.0.0"
   optionalDependencies:
@@ -244,143 +244,143 @@ jsonfile@^6.0.1:
 
 map-stream@~0.1.0:
   version "0.1.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/map-stream/download/map-stream-0.1.0.tgz#e56aa94c4c8055a16404a0674b78f215f7c8e194"
+  resolved "https://registry.npmjs.org/map-stream/-/map-stream-0.1.0.tgz#e56aa94c4c8055a16404a0674b78f215f7c8e194"
   integrity sha1-5WqpTEyAVaFkBKBnS3jyFffI4ZQ=
 
 merge2@^1.3.0, merge2@^1.4.1:
   version "1.4.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/merge2/download/merge2-1.4.1.tgz#4368892f885e907455a6fd7dc55c0c9d404990ae"
-  integrity sha1-Q2iJL4hekHRVpv19xVwMnUBJkK4=
+  resolved "https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz#4368892f885e907455a6fd7dc55c0c9d404990ae"
+  integrity sha512-8q7VEgMJW4J8tcfVPy8g09NcQwZdbwFEqhe/WZkoIzjn/3TGDwtOCYtXGxA3O8tPzpczCCDgv+P2P5y00ZJOOg==
 
 micromatch@^4.0.4:
   version "4.0.4"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/micromatch/download/micromatch-4.0.4.tgz#896d519dfe9db25fce94ceb7a500919bf881ebf9"
-  integrity sha1-iW1Rnf6dsl/OlM63pQCRm/iB6/k=
+  resolved "https://registry.npmjs.org/micromatch/-/micromatch-4.0.4.tgz#896d519dfe9db25fce94ceb7a500919bf881ebf9"
+  integrity sha512-pRmzw/XUcwXGpD9aI9q/0XOwLNygjETJ8y0ao0wdqprrzDa4YnxLcz7fQRZr8voh8V10kGhABbNcHVk5wHgWwg==
   dependencies:
     braces "^3.0.1"
     picomatch "^2.2.3"
 
-mime-db@1.49.0:
-  version "1.49.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/mime-db/download/mime-db-1.49.0.tgz#f3dfde60c99e9cf3bc9701d687778f537001cbed"
-  integrity sha1-89/eYMmenPO8lwHWh3ePU3ABy+0=
+mime-db@1.50.0:
+  version "1.50.0"
+  resolved "https://registry.npmjs.org/mime-db/-/mime-db-1.50.0.tgz#abd4ac94e98d3c0e185016c67ab45d5fde40c11f"
+  integrity sha512-9tMZCDlYHqeERXEHO9f/hKfNXhre5dK2eE/krIvUjZbS2KPcqGDfNShIWS1uW9XOTKQKqK6qbeOci18rbfW77A==
 
 mime-types@^2.1.12:
-  version "2.1.32"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/mime-types/download/mime-types-2.1.32.tgz#1d00e89e7de7fe02008db61001d9e02852670fd5"
-  integrity sha1-HQDonn3n/gIAjbYQAdngKFJnD9U=
+  version "2.1.33"
+  resolved "https://registry.npmjs.org/mime-types/-/mime-types-2.1.33.tgz#1fa12a904472fafd068e48d9e8401f74d3f70edb"
+  integrity sha512-plLElXp7pRDd0bNZHw+nMd52vRYjLwQjygaNg7ddJ2uJtTlmnTCjWuPKxVu6//AdaRuME84SvLW91sIkBqGT0g==
   dependencies:
-    mime-db "1.49.0"
+    mime-db "1.50.0"
 
 minimist@^1.2.5:
   version "1.2.5"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/minimist/download/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
-  integrity sha1-Z9ZgFLZqaoqqDAg8X9WN9OTpdgI=
+  resolved "https://registry.npmjs.org/minimist/-/minimist-1.2.5.tgz#67d66014b66a6a8aaa0c083c5fd58df4e4e97602"
+  integrity sha512-FM9nNUYrRBAELZQT3xeZQ7fmMOBg6nWNmJKTcgsJeaLstP/UODVpGsr5OhXhhXg6f+qtJ8uiZ+PUxkDWcgIXLw==
 
 node-fetch@^2.6.1:
   version "2.6.5"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/node-fetch/download/node-fetch-2.6.5.tgz#42735537d7f080a7e5f78b6c549b7146be1742fd"
-  integrity sha1-QnNVN9fwgKfl94tsVJtxRr4XQv0=
+  resolved "https://registry.npmjs.org/node-fetch/-/node-fetch-2.6.5.tgz#42735537d7f080a7e5f78b6c549b7146be1742fd"
+  integrity sha512-mmlIVHJEu5rnIxgEgez6b9GgWXbkZj5YZ7fx+2r94a2E+Uirsp6HsPTPlomfdHtpt/B0cdKviwkoaM6pyvUOpQ==
   dependencies:
     whatwg-url "^5.0.0"
 
 path-type@^4.0.0:
   version "4.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/path-type/download/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
-  integrity sha1-hO0BwKe6OAr+CdkKjBgNzZ0DBDs=
+  resolved "https://registry.npmjs.org/path-type/-/path-type-4.0.0.tgz#84ed01c0a7ba380afe09d90a8c180dcd9d03043b"
+  integrity sha512-gDKb8aZMDeD/tZWs9P6+q0J9Mwkdl6xMV8TjnGP3qJVJ06bdMgkbBlLU8IdfOsIsFz2BW1rNVT3XuNEl8zPAvw==
 
 pause-stream@0.0.11:
   version "0.0.11"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/pause-stream/download/pause-stream-0.0.11.tgz#fe5a34b0cbce12b5aa6a2b403ee2e73b602f1445"
+  resolved "https://registry.npmjs.org/pause-stream/-/pause-stream-0.0.11.tgz#fe5a34b0cbce12b5aa6a2b403ee2e73b602f1445"
   integrity sha1-/lo0sMvOErWqaitAPuLnO2AvFEU=
   dependencies:
     through "~2.3"
 
 picomatch@^2.2.3:
   version "2.3.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/picomatch/download/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
-  integrity sha1-8fBh3o9qS/AiiS4tEoI0+5gwKXI=
+  resolved "https://registry.npmjs.org/picomatch/-/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
+  integrity sha512-lY1Q/PiJGC2zOv/z391WOTD+Z02bCgsFfvxoXXf6h7kv9o+WmsmzYqrAwY63sNgOxE4xEdq0WyUnXfKeBrSvYw==
 
 ps-tree@^1.2.0:
   version "1.2.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/ps-tree/download/ps-tree-1.2.0.tgz#5e7425b89508736cdd4f2224d028f7bb3f722ebd"
-  integrity sha1-XnQluJUIc2zdTyIk0Cj3uz9yLr0=
+  resolved "https://registry.npmjs.org/ps-tree/-/ps-tree-1.2.0.tgz#5e7425b89508736cdd4f2224d028f7bb3f722ebd"
+  integrity sha512-0VnamPPYHl4uaU/nSFeZZpR21QAWRz+sRv4iW9+v/GS/J5U5iZB5BNN6J0RMoOvdx2gWM2+ZFMIm58q24e4UYA==
   dependencies:
     event-stream "=3.3.4"
 
 queue-microtask@^1.2.2:
   version "1.2.3"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/queue-microtask/download/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
-  integrity sha1-SSkii7xyTfrEPg77BYyve2z7YkM=
+  resolved "https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
+  integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
 
 reusify@^1.0.4:
   version "1.0.4"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/reusify/download/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
-  integrity sha1-kNo4Kx4SbvwCFG6QhFqI2xKSXXY=
+  resolved "https://registry.npmjs.org/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
+  integrity sha512-U9nH88a3fc/ekCF1l0/UP1IosiuIjyTh7hBvXVMHYgVcfGvt897Xguj2UOLDeI5BG2m7/uwyaLVT6fbtCwTyzw==
 
 run-parallel@^1.1.9:
   version "1.2.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/run-parallel/download/run-parallel-1.2.0.tgz#66d1368da7bdf921eb9d95bd1a9229e7f21a43ee"
-  integrity sha1-ZtE2jae9+SHrnZW9GpIp5/IaQ+4=
+  resolved "https://registry.npmjs.org/run-parallel/-/run-parallel-1.2.0.tgz#66d1368da7bdf921eb9d95bd1a9229e7f21a43ee"
+  integrity sha512-5l4VyZR86LZ/lDxZTR6jqL8AFE2S0IFLMP26AbjsLVADxHdhB/c0GUsH+y39UfCi3dzz8OlQuPmnaJOMoDHQBA==
   dependencies:
     queue-microtask "^1.2.2"
 
 slash@^4.0.0:
   version "4.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/slash/download/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
-  integrity sha1-JCI3IXbExsWt214q2oha+YSzlqc=
+  resolved "https://registry.npmjs.org/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
+  integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
 
 split@0.3:
   version "0.3.3"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/split/download/split-0.3.3.tgz#cd0eea5e63a211dfff7eb0f091c4133e2d0dd28f"
+  resolved "https://registry.npmjs.org/split/-/split-0.3.3.tgz#cd0eea5e63a211dfff7eb0f091c4133e2d0dd28f"
   integrity sha1-zQ7qXmOiEd//frDwkcQTPi0N0o8=
   dependencies:
     through "2"
 
 stream-combiner@~0.0.4:
   version "0.0.4"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/stream-combiner/download/stream-combiner-0.0.4.tgz#4d5e433c185261dde623ca3f44c586bcf5c4ad14"
+  resolved "https://registry.npmjs.org/stream-combiner/-/stream-combiner-0.0.4.tgz#4d5e433c185261dde623ca3f44c586bcf5c4ad14"
   integrity sha1-TV5DPBhSYd3mI8o/RMWGvPXErRQ=
   dependencies:
     duplexer "~0.1.1"
 
 supports-color@^7.1.0:
   version "7.2.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/supports-color/download/supports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"
-  integrity sha1-G33NyzK4E4gBs+R4umpRyqiWSNo=
+  resolved "https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz#1b7dcdcb32b8138801b3e478ba6a51caa89648da"
+  integrity sha512-qpCAvRl9stuOHveKsn7HncJRvv501qIacKzQlO/+Lwxc9+0q2wLyv4Dfvt80/DPn2pqOBsJdDiogXGR9+OvwRw==
   dependencies:
     has-flag "^4.0.0"
 
 through@2, through@~2.3, through@~2.3.1:
   version "2.3.8"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/through/download/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
+  resolved "https://registry.npmjs.org/through/-/through-2.3.8.tgz#0dd4c9ffaabc357960b1b724115d7e0e86a2e1f5"
   integrity sha1-DdTJ/6q8NXlgsbckEV1+Doai4fU=
 
 to-regex-range@^5.0.1:
   version "5.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/to-regex-range/download/to-regex-range-5.0.1.tgz#1648c44aae7c8d988a326018ed72f5b4dd0392e4"
-  integrity sha1-FkjESq58jZiKMmAY7XL1tN0DkuQ=
+  resolved "https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz#1648c44aae7c8d988a326018ed72f5b4dd0392e4"
+  integrity sha512-65P7iz6X5yEr1cwcgvQxbbIw7Uk3gOy5dIdtZ4rDveLqhrdJP+Li/Hx6tyK0NEb+2GCyneCMJiGqrADCSNk8sQ==
   dependencies:
     is-number "^7.0.0"
 
 tr46@~0.0.3:
   version "0.0.3"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/tr46/download/tr46-0.0.3.tgz#8184fd347dac9cdc185992f3a6622e14b9d9ab6a"
+  resolved "https://registry.npmjs.org/tr46/-/tr46-0.0.3.tgz#8184fd347dac9cdc185992f3a6622e14b9d9ab6a"
   integrity sha1-gYT9NH2snNwYWZLzpmIuFLnZq2o=
 
 universalify@^2.0.0:
   version "2.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/universalify/download/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
-  integrity sha1-daSYTv7cSwiXXFrrc/Uw0C3yVxc=
+  resolved "https://registry.npmjs.org/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
+  integrity sha512-hAZsKq7Yy11Zu1DE0OzWjw7nnLZmJZYTDZZyEFHZdUhV8FkH5MCfoU1XMaxXovpyW5nq5scPqq0ZDP9Zyl04oQ==
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/webidl-conversions/download/webidl-conversions-3.0.1.tgz#24534275e2a7bc6be7bc86611cc16ae0a5654871"
+  resolved "https://registry.npmjs.org/webidl-conversions/-/webidl-conversions-3.0.1.tgz#24534275e2a7bc6be7bc86611cc16ae0a5654871"
   integrity sha1-JFNCdeKnvGvnvIZhHMFq4KVlSHE=
 
 whatwg-url@^5.0.0:
   version "5.0.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/whatwg-url/download/whatwg-url-5.0.0.tgz#966454e8765462e37644d3626f6742ce8b70965d"
+  resolved "https://registry.npmjs.org/whatwg-url/-/whatwg-url-5.0.0.tgz#966454e8765462e37644d3626f6742ce8b70965d"
   integrity sha1-lmRU6HZUYuN2RNNib2dCzotwll0=
   dependencies:
     tr46 "~0.0.3"
@@ -388,15 +388,15 @@ whatwg-url@^5.0.0:
 
 which@^2.0.2:
   version "2.0.2"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/which/download/which-2.0.2.tgz#7c6a8dd0a636a0327e10b59c9286eee93f3f51b1"
-  integrity sha1-fGqN0KY2oDJ+ELWckobu6T8/UbE=
+  resolved "https://registry.npmjs.org/which/-/which-2.0.2.tgz#7c6a8dd0a636a0327e10b59c9286eee93f3f51b1"
+  integrity sha512-BLI3Tl1TW3Pvl70l3yq3Y64i+awpwXqsGBYWkkqMtnbXgrMD+yj7rhW0kuEDxzJaYXGjEW5ogapKNMEKNMjibA==
   dependencies:
     isexe "^2.0.0"
 
 zx@^4.2.0:
   version "4.2.0"
-  resolved "https://af-biz.qianxin-inc.cn:443/artifactory/api/npm/ats-npm/zx/download/zx-4.2.0.tgz#5f7c15f4446ad33ae23717e5aba4c0199aa90851"
-  integrity sha1-X3wV9ERq0zriNxflq6TAGZqpCFE=
+  resolved "https://registry.npmjs.org/zx/-/zx-4.2.0.tgz#5f7c15f4446ad33ae23717e5aba4c0199aa90851"
+  integrity sha512-/4f7FaJecA9I655KXKXIHO3CFNYjAz2uSmTz6v2eNlKdrQKyz4VyF3RjqFuP6nQG+Hd3+NjOvrVNBkv8Ne9d4Q==
   dependencies:
     "@types/fs-extra" "^9.0.12"
     "@types/minimist" "^1.2.2"

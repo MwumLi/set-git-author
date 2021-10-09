@@ -3,7 +3,8 @@ import { $, os, fs } from 'zx';
 
 /**
  * set-got-author.json
- *  {
+ *  
+    {
       "author": {
         "git-(biz|open).xxx.cn": "LiLuo <liluo@xxx.com>",
         "(github|gitlab).com": "MwumLi <mwumli@outlook.com>"
