@@ -5,7 +5,7 @@
   "main": "index.mjs",
   "bin": "./index.mjs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postpublish": "git push && git push --tags"
   },
   "keywords": [],
   "author": "MwumLi <mwumli@hotmail.com>",
