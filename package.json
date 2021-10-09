@@ -1,0 +1,16 @@
+{
+  "name": "set-git-author",
+  "version": "0.0.1",
+  "description": "set a suitable git author by some rules, such as remote repo",
+  "main": "index.mjs",
+  "bin": "./index.mjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zx": "^4.2.0"
+  }
+}
